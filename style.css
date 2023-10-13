@@ -48,7 +48,7 @@
   width: 100%;
 }
 .form button:hover {
-  background: rgba(88, 104, 191, 0.5);
+  background-color: black;
 }
 #qrcode-container {
   display: none;
